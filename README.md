@@ -8,6 +8,8 @@ This project consists of two interactive Human Resources dashboards designed to 
 The dashboards help HR leaders and business stakeholders make data-driven decisions related to hiring, retention, compensation, workforce diversity, and performance management.
 
 🖥️ Dashboard 1: HR Overview & Strategic Insights
+<img width="1328" height="694" alt="image" src="https://github.com/user-attachments/assets/fda13573-987e-4df7-8ca3-91cc8f730ddf" />
+
 🎯 Objective
 
 To provide a 360-degree overview of the organization’s workforce, enabling leadership to quickly understand overall employee health, demographics, attrition, income patterns, and departmental performance.
@@ -120,6 +122,9 @@ Build a balanced and future-ready workforce
 It transforms raw HR data into actionable business intelligence.
 
 🖥️ Dashboard 2: Employee-Level HR Analytics
+<img width="1324" height="695" alt="image" src="https://github.com/user-attachments/assets/828148a6-3665-4ce6-b0b1-e9571e4b13e9" />
+
+
 🎯 Objective
 
 To provide granular, drill-down visibility into individual employee records, enabling operational HR teams to manage workforce data efficiently.
